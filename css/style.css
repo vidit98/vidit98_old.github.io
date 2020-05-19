@@ -110,7 +110,7 @@ button {
 }
 
 .page-body {
-    background: #000000;
+    background: #ffffff;
     box-shadow: -2px -1px 88px 0px rgba(0,0,0,0.17);
 }
 
@@ -1802,7 +1802,7 @@ blockquote {
     color: #333333;
 }
 .navbar-default {
-  background-color:#000000;
+  background-color:#ffffff;
   background-image: none;
   background-repeat: no-repeat;
   border: none;
